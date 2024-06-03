@@ -36,5 +36,30 @@ article a {
     font-size: small;
 }
 
+.yellow {
+    background-color: yellow;
+}
+
+ul {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 5px;
+}
+th, td {
+    text-align: left;
+    width: 20px;
+}
+th {
+    background-color: #00B0F0;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: #00c8ff43;
+}
+
 
 
