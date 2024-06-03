@@ -61,5 +61,17 @@ tr:nth-child(even) {
     background-color: #00c8ff43;
 }
 
+h4 {
+    color: #747474;
+    margin: 0;
+}
 
+.scritta {
+    display: inline-block;
+    position: absolute;
+    left: 5px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-weight: bold;
+}
 
