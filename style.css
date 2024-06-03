@@ -16,4 +16,25 @@ header {
     height: 100px; 
 }
 
+article h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.grey {
+    font-size: 16px;
+    color: #666;
+}
+
+article a {
+    color: #50b0f9;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.font {
+    font-size: small;
+}
+
+
 
